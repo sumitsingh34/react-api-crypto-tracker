@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-api-crypto-tracker/static/css/main.512eabd1.css",
+    "main.js": "/react-api-crypto-tracker/static/js/main.048a1fda.js",
+    "index.html": "/react-api-crypto-tracker/index.html",
+    "main.512eabd1.css.map": "/react-api-crypto-tracker/static/css/main.512eabd1.css.map",
+    "main.048a1fda.js.map": "/react-api-crypto-tracker/static/js/main.048a1fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512eabd1.css",
+    "static/js/main.048a1fda.js"
+  ]
+}
